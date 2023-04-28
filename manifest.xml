@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="1.0.0" uuid="fitnesstrainer-a01d8e">
+ <names>
+  <name lang="de_DE">fitnesstrainer</name>
+  <name lang="en_US">gymcoach</name>
+ </names>
+ <supportedLanguages>
+  <language>de_DE</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+  <language>de_DE</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="Standard">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
